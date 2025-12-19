@@ -20,8 +20,8 @@ project:
 site:
   template: book-theme
   options:
-    favicon: favicon.ico
-    logo: site_logo.png
+    favicon: images/3point.ico
+    logo: images/logo.png
   nav:
     - title: Geospatial
       url: https://3point.xyz/geosp
