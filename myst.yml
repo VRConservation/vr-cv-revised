@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 42c4f617-d435-48fb-a3b4-657d0231b636
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/VRConservation/vr-cv-revised
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
