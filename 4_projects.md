@@ -75,7 +75,7 @@ All projects by category.
 :::{tab-item} Ecosystem Services
 **British Hemp Association (BHA)**. Pollinator field surveys and geospatial analysis. 
 
-**Burnbot**. Geospatial prioritization of restoration treatment areas. 
+**Burnbot**. Geospatial prioritization of restoration treatment areas in the Sierra Nevada and Central Coast, California. 
 
 **Environmental Defense Fund**. United States and European Union. Field Margin Policy and Ecosystem Service Benefits Analysis. 
 
